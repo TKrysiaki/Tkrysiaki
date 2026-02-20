@@ -1,4 +1,31 @@
-## Hi there 👋
+## 👨‍💻 Tiago Krysiaki
+
+🎓 Estudante de ADS e Cybersecurity
+🔐 Foco em Redes, Linux e Segurança da Informação
+🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
+🚀 Em transição de carreira para a área de TI
+
+📚 Atualmente estudando
+
+Redes (Cisco / fundamentos e configuração)
+
+Linux e linha de comando
+
+Cybersecurity (base, hardening e práticas)
+
+Inglês técnico para TI
+
+🧪 Projetos e Labs
+
+Aqui você vai encontrar:
+✔️ Estudos de redes e segurança
+✔️ Comandos e práticas Linux
+✔️ Anotações técnicas organizadas
+✔️ Labs reais em ambiente virtual
+
+🎯 Objetivo profissional
+
+Entrar na área de TI com foco em Cybersecurity, suporte técnico ou infraestrutura, evoluindo para segurança ofensiva/defensiva no futuro.
 
 <!--
 **TKrysiaki/Tkrysiaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
