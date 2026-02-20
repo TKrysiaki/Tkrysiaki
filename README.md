@@ -3,7 +3,7 @@
 ## 🎓 Estudante de ADS e Cybersecurity
 ## 🔐 Foco em Redes, Linux e Segurança da Informação
 ## 🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
-## 🚀 Em transição de carreira para a área de TI
+## 🚀 Construindo carreira na área de TI com foco em Cybersecurity
 
 ## 📚 Atualmente estudando
 
