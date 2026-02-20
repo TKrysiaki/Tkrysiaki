@@ -29,7 +29,7 @@ Aqui você vai encontrar:
 
 ## 🎯 Objetivo profissional
 
-Entrar na área de TI com foco em Cybersecurity, suporte técnico ou infraestrutura, evoluindo para segurança ofensiva/defensiva no futuro.
+Atuar na área de TI com foco em Cybersecurity, suporte ou infraestrutura, evoluindo para segurança ofensiva e defensiva.
 
 <!--
 **TKrysiaki/Tkrysiaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
