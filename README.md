@@ -1,29 +1,33 @@
 ## 👨‍💻 Tiago Krysiaki
 
-🎓 Estudante de ADS e Cybersecurity
-🔐 Foco em Redes, Linux e Segurança da Informação
-🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
-🚀 Em transição de carreira para a área de TI
+# 🎓 Estudante de ADS e Cybersecurity
+# 🔐 Foco em Redes, Linux e Segurança da Informação
+# 🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
+# 🚀 Em transição de carreira para a área de TI
 
-📚 Atualmente estudando
+## 📚 Atualmente estudando
 
-Redes (Cisco / fundamentos e configuração)
+- Redes (Cisco / fundamentos e configuração)
 
-Linux e linha de comando
+- Linux e linha de comando
 
-Cybersecurity (base, hardening e práticas)
+- Cybersecurity (base, hardening e práticas)
 
-Inglês técnico para TI
+- Inglês técnico para TI
 
-🧪 Projetos e Labs
+##🧪 Projetos e Labs
 
 Aqui você vai encontrar:
+
 ✔️ Estudos de redes e segurança
+
 ✔️ Comandos e práticas Linux
+
 ✔️ Anotações técnicas organizadas
+
 ✔️ Labs reais em ambiente virtual
 
-🎯 Objetivo profissional
+## 🎯 Objetivo profissional
 
 Entrar na área de TI com foco em Cybersecurity, suporte técnico ou infraestrutura, evoluindo para segurança ofensiva/defensiva no futuro.
 
