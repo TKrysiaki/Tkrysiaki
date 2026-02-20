@@ -15,7 +15,7 @@
 
 - Inglês técnico para TI
 
-##🧪 Projetos e Labs
+## 🧪 Projetos e Labs
 
 Aqui você vai encontrar:
 
