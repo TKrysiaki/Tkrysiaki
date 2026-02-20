@@ -1,9 +1,9 @@
-## 👨‍💻 Tiago Krysiaki
+# 👨‍💻 Tiago Krysiaki
 
-# 🎓 Estudante de ADS e Cybersecurity
-# 🔐 Foco em Redes, Linux e Segurança da Informação
-# 🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
-# 🚀 Em transição de carreira para a área de TI
+## 🎓 Estudante de ADS e Cybersecurity
+## 🔐 Foco em Redes, Linux e Segurança da Informação
+## 🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
+## 🚀 Em transição de carreira para a área de TI
 
 ## 📚 Atualmente estudando
 
