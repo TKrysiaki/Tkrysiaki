@@ -1,8 +1,8 @@
 # 👨‍💻 Tiago Krysiaki
 
 ### 🎓 Estudante de ADS e Cybersecurity
-### 🔐 Foco em Redes, Linux e Segurança da Informação
-### 🧪 Labs práticos com Packet Tracer, máquinas virtuais e simulações reais
+### 🔐 Foco em Redes, Linux e Segurança da Informação (Cybersecurity)
+### 🧪 Labs práticos com Packet Tracer, Linux, máquinas virtuais e simulações reais
 ### 🚀 Construindo carreira na área de TI com foco em Cybersecurity
 
 ## 📚 Atualmente estudando
@@ -11,7 +11,7 @@
 
 - Linux e linha de comando
 
-- Cybersecurity (base, hardening e práticas)
+- Cybersecurity (fundamentos, hardening e práticas em laboratório)
 
 - Inglês técnico para TI
 
