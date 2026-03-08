@@ -1,9 +1,13 @@
 # 👨‍💻 Tiago Krysiaki
 
-### 🎓 Estudante de ADS e Cybersecurity
-### 🔐 Foco em Redes, Linux e Segurança da Informação (Cybersecurity)
-### 🧪 Labs práticos com Packet Tracer, Linux, máquinas virtuais e simulações reais
-### 🚀 Construindo carreira na área de TI com foco em Cybersecurity
+# 👨‍💻 Tiago Krysiaki
+
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+###🛡️ Foco em Cybersecurity (Blue Team / SOC)  
+### 🖥️ Experiência prática com Linux, redes e laboratórios de segurança  
+### 🔬 Labs com máquinas virtuais, análise de logs e simulações de ataque  
+
+## 🚀 Construindo carreira em Segurança da Informação
 
 ---
 ## 📚 Atualmente estudando
@@ -19,28 +23,25 @@
 ---
 ## 🛡️ Foco em Cybersecurity (Blue Team / SOC)
 
-- Log Analysis
-- Incident Detection
-- Linux Security
+- Log Analysis (Linux / SSH logs)
+- Brute Force Detection
+- Incident Investigation
+- Linux Hardening
 - Network Monitoring
-- SSH Security
+- Security Labs em ambiente virtual
 
 ---  
 
-## 🧪 Projetos e Labs
+## 🔬 Laboratórios de Segurança
 
-Aqui você vai encontrar:
-
-✔️ Estudos de redes e segurança
-
-✔️ Comandos e práticas Linux
-
-✔️ Anotações técnicas organizadas
-
-✔️ Labs reais em ambiente virtual
+- SSH Brute Force Detection
+- Log Analysis Investigation
+- Linux Incident Response
+- SSH Hardening
+- Network Security Labs
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Atuar na área de TI com foco em Cybersecurity, suporte ou infraestrutura, evoluindo para segurança ofensiva e defensiva.
+Iniciar carreira na área de TI atuando com infraestrutura, suporte ou SOC, aplicando conhecimentos em redes, Linux e segurança da informação, evoluindo para funções em Cybersecurity (Blue Team).
