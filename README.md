@@ -1,7 +1,7 @@
 # 👨‍💻 Tiago Krysiaki
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-###🛡️ Foco em Cybersecurity (Blue Team / SOC)  
+### 🛡️ Foco em Cybersecurity (Blue Team / SOC)  
 ### 🖥️ Experiência prática com Linux, redes e laboratórios de segurança  
 ### 🔬 Labs com máquinas virtuais, análise de logs e simulações de ataque  
 
