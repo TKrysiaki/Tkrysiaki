@@ -39,6 +39,8 @@ Aqui você vai encontrar:
 
 ✔️ Labs reais em ambiente virtual
 
+---
+
 ## 🎯 Objetivo profissional
 
 Atuar na área de TI com foco em Cybersecurity, suporte ou infraestrutura, evoluindo para segurança ofensiva e defensiva.
