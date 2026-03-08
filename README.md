@@ -2,10 +2,10 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 ### 🛡️ Foco em Cybersecurity (Blue Team / SOC)  
-### 🖥️ Experiência prática com Linux, redes e laboratórios de segurança  
-### 🔬 Labs com máquinas virtuais, análise de logs e simulações de ataque  
+### 🖥️ Experiência prática com Linux, redes e segurança  
+### 🔬 Laboratórios com máquinas virtuais e análise de logs  
 
-## 🚀 Construindo carreira em Segurança da Informação
+### 🚀 Construindo carreira em Segurança da Informação
 
 ---
 ## 📚 Atualmente estudando
