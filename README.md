@@ -1,45 +1,18 @@
-# 👨‍💻 Tiago Krysiaki
+# 🛡️ SOC Analyst Portfolio – Tiago Krysiaki
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-### 🛡️ Foco em Cybersecurity (Blue Team / SOC)  
-### 🖥️ Experiência prática com Linux, redes e análise de segurança 
-### 🔬 Laboratórios com máquinas virtuais e análise de logs  
+Focused on detection, investigation, and incident response through hands-on labs simulating real-world attacks.
 
-### 🚀 Construindo carreira em Segurança da Informação
+## 🔍 Skills
+- Log Analysis (Linux)
+- Incident Detection & Response
+- Threat Identification (MITRE ATT&CK)
+- SIEM (Wazuh)
+- Brute Force Detection (T1110)
 
----
-## 📚 Atualmente estudando
-
-- Redes (Cisco / fundamentos e configuração)
-
-- Linux e linha de comando
-
-- Cybersecurity (fundamentos, hardening e práticas em laboratório)
-
-- Inglês técnico para TI
-
----
-## 🛡️ Foco em Cybersecurity (Blue Team / SOC)
-
-- Log Analysis (Linux / SSH logs)
-- Brute Force Detection
-- Incident Investigation
-- Linux Hardening
-- Network Monitoring
-- Security Labs em ambiente virtual
-
----  
-
-## 🔬 Laboratórios de Segurança
-
+## 🧪 Labs
 - SSH Brute Force Detection
-- Log Analysis Investigation
-- Linux Incident Response
-- SSH Hardening
-- Network Security Labs
+- Linux Log Analysis
+- Incident Investigation
 
----
-
-## 🎯 Objetivo profissional
-
-Iniciar carreira na área de TI atuando com infraestrutura, suporte ou SOC, aplicando conhecimentos em redes, Linux e segurança da informação, evoluindo para funções em Cybersecurity (Blue Team).
+## 📌 Approach
+Attack → Logs → Detection → Analysis → Response → Validation
