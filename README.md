@@ -27,7 +27,7 @@ Hands-on SOC labs simulating real-world attacks, focused on **Detection, Investi
 
 ## 🧪 Featured Labs
 
-### 🔐 SSH Brute Force Attack (LAB 30)
+### 🔐 SSH Brute Force Attack
 - Detection via log analysis and SIEM alerts  
 - Investigation with timeline + IOC extraction  
 - Persistence techniques (authorized_keys, new user)  
