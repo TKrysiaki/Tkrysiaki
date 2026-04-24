@@ -1,61 +1,90 @@
 # 🛡️ SOC Analyst Portfolio — Tiago Krysiaki
 
-Hands-on SOC labs simulating real-world attacks, focused on **Monitoring, Detection, Investigation, and Incident Response** in Linux environments.
+Hands-on SOC scenarios focused on **Monitoring, Detection, Investigation, and Response** in Linux environments.
 
 ---
 
-## 🔍 What I Do
+## 🎯 Detection Use Cases
 
-- Monitor and analyze security events using **Wazuh (SIEM)**
-- Investigate incidents through **log correlation (auth.log, auditd)**
-- Detect and respond to **brute force attacks (MITRE T1110)**
-- Perform **timeline reconstruction and IOC identification**
-- Validate defensive controls (e.g., **Fail2ban, Active Response**)
+### 🔐 SSH Brute Force Detection (MITRE T1110)
+
+**Monitoring**
+- Wazuh alerts for multiple failed SSH login attempts  
+
+**Detection**
+- High volume of authentication failures from a single IP  
+- Pattern of sequential username attempts  
+
+**Investigation**
+- Analysis of `/var/log/auth.log`  
+- Identification of source IP and targeted accounts  
+- Timeline reconstruction of attack attempts  
+
+**Classification**
+- Brute Force Attack (T1110)  
+
+**Response**
+- Source IP blocking (Fail2ban / firewall)  
+- Review of compromised or targeted accounts  
 
 ---
 
-## ⚙️ Core Skills
+### 📊 Suspicious Authentication Activity
 
-- Linux Log Analysis (auth.log, auditd)
-- SIEM Monitoring & Correlation (Wazuh)
-- Incident Detection & Response
-- Threat Mapping (MITRE ATT&CK)
-- Brute Force Detection & Analysis
-- Security Event Investigation
+**Monitoring**
+- Authentication logs via Wazuh and system logs  
+
+**Detection**
+- Logins at unusual hours  
+- Access from unknown or inconsistent IP addresses  
+
+**Investigation**
+- Correlation of login events across logs  
+- Validation of user behavior patterns  
+
+**Classification**
+- Potential Account Misuse / Unauthorized Access  
+
+**Response**
+- Session review and access validation  
+- Credential reset if necessary  
 
 ---
 
-## 🧪 Featured Labs
+### 🧾 Log Analysis & Event Correlation
 
-### 🔐 SSH Brute Force Attack
-- Detection via log analysis and SIEM alerts  
-- Investigation with timeline + IOC extraction  
-- Persistence techniques (authorized_keys, new user)  
-- Log tampering analysis  
-- Response: containment + remediation + defense validation  
+**Monitoring**
+- Continuous log ingestion (auth.log, auditd)  
 
-📎 Full documentation:  
-👉 https://github.com/TKrysiaki/lab-soc-linux
+**Detection**
+- Anomalous patterns in authentication and system activity  
+
+**Investigation**
+- Cross-log correlation (auth.log + auditd)  
+- IOC extraction (IP, user, timestamp)  
+
+**Classification**
+- Suspicious Activity / Security Event  
+
+**Response**
+- Escalation or containment based on severity  
 
 ---
 
 ## 🧠 Methodology
 
-**Monitoring → Detection → Investigation → Classification → Response → Defense Validation**
+**Monitoring → Detection → Investigation → Classification → Response**
 
 Aligned with:
-- MITRE ATT&CK
-- NIST Incident Response Lifecycle
-- CIS Controls
+- MITRE ATT&CK  
+- NIST Incident Response  
+- CIS Controls  
 
 ---
 
-## 🎯 Objective
+## 📎 Repository
 
-Seeking an opportunity as a **SOC Analyst (N1)** to apply practical skills in:
-- Threat detection  
-- Incident handling  
-- Continuous security monitoring  
+👉 https://github.com/TKrysiaki/lab-soc-linux
 
 ---
 
