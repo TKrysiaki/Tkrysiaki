@@ -1,6 +1,6 @@
 # 🛡️ SOC Analyst Portfolio — Tiago Krysiaki
 
-Hands-on SOC labs simulating real-world attacks, focused on **Detection, Investigation, and Incident Response** in Linux environments.
+Hands-on SOC labs simulating real-world attacks, focused on **Monitoring, Detection, Investigation, and Incident Response** in Linux environments.
 
 ---
 
